@@ -1,6 +1,6 @@
 ## Dhiraj Tanwar
 <h1>Hello</h1>
-<script type="text/javascript" src="hello.js"></script>
+<script type="text/javascript" src="/hello.js"></script>
 You can use the the [editor on GitHub](https://github.com/DhirajTanwar/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
