@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<!-- Student Name:   -->
-<html lang="en">
-  <head>
-    <title>A Pong Game in JavaScript</title>
-    <meta charset="utf-8"/>
-    <script type="text/javascript" src="hello.js"></script>
-  </head>
+
+<script type="text/javascript" src="hello.js"></script>
 
 ## Dhiraj Tanwar
 <h1>Hello</h1>
