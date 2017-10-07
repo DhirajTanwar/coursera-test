@@ -4,7 +4,6 @@
 ## Dhiraj Tanwar
 <h1>Hello</h1>
 
-<script type="text/javascript" src="hello.js"></script>
 
 You can use the the [editor on GitHub](https://github.com/DhirajTanwar/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
